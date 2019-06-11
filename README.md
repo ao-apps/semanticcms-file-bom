@@ -29,7 +29,6 @@ Bill of Materials (BOM) for [SemanticCMS File](https://github.com/aoindustries/s
 ## Managed Dependencies
 * [SemanticCMS File All](https://github.com/aoindustries/semanticcms-file-all)
 * [SemanticCMS File Model](https://github.com/aoindustries/semanticcms-file-model)
-* [SemanticCMS File Renderer HTML](https://github.com/aoindustries/semanticcms-file-renderer-html)
 * [SemanticCMS File Servlet](https://github.com/aoindustries/semanticcms-file-servlet)
 * [SemanticCMS File Style](https://github.com/aoindustries/semanticcms-file-style)
 * [SemanticCMS File Taglib](https://github.com/aoindustries/semanticcms-file-taglib)
