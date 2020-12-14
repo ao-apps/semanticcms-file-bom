@@ -123,6 +123,9 @@ along with semanticcms-file-bom.  If not, see <http://www.gnu.org/licenses />.
 				<groupId>com.aoindustries</groupId><artifactId>ao-encoding</artifactId><version>3.2.1${POST-SNAPSHOT}</version>
 			</dependency>
 			<dependency>
+				<groupId>com.aoindustries</groupId><artifactId>ao-encoding-taglib</artifactId><version>1.0.2${POST-SNAPSHOT}</version>
+			</dependency>
+			<dependency>
 				<groupId>com.aoindustries</groupId><artifactId>ao-fluent-html</artifactId><version>0.3.0${POST-SNAPSHOT}</version>
 			</dependency>
 			<dependency>
@@ -139,6 +142,9 @@ along with semanticcms-file-bom.  If not, see <http://www.gnu.org/licenses />.
 			</dependency>
 			<dependency>
 				<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId><version>1.13.0${POST-SNAPSHOT}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-servlet</artifactId><version>1.17.0${POST-SNAPSHOT}</version>
 			</dependency>
 			<dependency>
 				<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-taglib</artifactId><version>1.14.1${POST-SNAPSHOT}</version>
