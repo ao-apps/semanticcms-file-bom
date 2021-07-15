@@ -79,6 +79,11 @@ along with semanticcms-file-bom.  If not, see <http://www.gnu.org/licenses />.
 		<url>https://github.com/aoindustries/semanticcms-file-bom/issues</url>
 	</issueManagement>
 
+	<ciManagement>
+		<system>GitHub Actions</system>
+		<url>https://github.com/aoindustries/semanticcms-file-bom/actions</url>
+	</ciManagement>
+
 	<repositories>
 		<!-- Repository required here, too, so can find parent -->
 		<repository>
