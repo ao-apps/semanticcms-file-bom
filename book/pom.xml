@@ -33,7 +33,6 @@ along with semanticcms-file-bom.  If not, see <https://www.gnu.org/licenses/>.
   <packaging>bundle</packaging>
 
   <properties>
-    <project.build.outputTimestamp>2023-02-08T21:06:04Z</project.build.outputTimestamp>
     <module.name>com.semanticcms.file.bom.book</module.name>
     <!-- These values are copied from the project being documented -->
     <documented.artifactId>semanticcms-file-bom</documented.artifactId>
