@@ -190,38 +190,4 @@ along with semanticcms-file-bom.  If not, see <https://www.gnu.org/licenses/>.
       </dependency>
     </dependencies>
   </dependencyManagement>
-
-  <dependencies>
-    <!-- Imports (Reactor build order only) -->
-    <dependency>
-      <groupId>com.semanticcms</groupId><artifactId>semanticcms-file-all</artifactId><version>1.7.1-POST-SNAPSHOT</version>
-      <type>pom</type>
-      <exclusions><exclusion><artifactId>*</artifactId><groupId>*</groupId></exclusion></exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.semanticcms</groupId><artifactId>semanticcms-file-model</artifactId><version>1.5.0-POST-SNAPSHOT</version>
-      <type>pom</type>
-      <exclusions><exclusion><artifactId>*</artifactId><groupId>*</groupId></exclusion></exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.semanticcms</groupId><artifactId>semanticcms-file-servlet</artifactId><version>1.10.1-POST-SNAPSHOT</version>
-      <type>pom</type>
-      <exclusions><exclusion><artifactId>*</artifactId><groupId>*</groupId></exclusion></exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.semanticcms</groupId><artifactId>semanticcms-file-style</artifactId><version>1.5.0-POST-SNAPSHOT</version>
-      <type>pom</type>
-      <exclusions><exclusion><artifactId>*</artifactId><groupId>*</groupId></exclusion></exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.semanticcms</groupId><artifactId>semanticcms-file-taglib</artifactId><version>1.10.0-POST-SNAPSHOT</version>
-      <type>pom</type>
-      <exclusions><exclusion><artifactId>*</artifactId><groupId>*</groupId></exclusion></exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.semanticcms</groupId><artifactId>semanticcms-file-view</artifactId><version>1.6.1-POST-SNAPSHOT</version>
-      <type>pom</type>
-      <exclusions><exclusion><artifactId>*</artifactId><groupId>*</groupId></exclusion></exclusions>
-    </dependency>
-  </dependencies>
 </project>
